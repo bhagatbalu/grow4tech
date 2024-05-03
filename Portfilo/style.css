@@ -1,0 +1,12 @@
+h1{
+    font-size: xx-large ;
+}
+header{
+    background-color: brown;
+}
+li{
+    color: darkred;
+}
+a:hover {
+    background-color: yellow;
+  }
